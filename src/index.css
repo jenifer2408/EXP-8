@@ -1,0 +1,5 @@
+* { box-sizing: border-box; }
+html { scroll-behavior: smooth; }
+body { min-width: 320px; }
+button, input, select, textarea { font-family: inherit; }
+button { cursor: pointer; }
